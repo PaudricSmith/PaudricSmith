@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaudricSmith
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on video games.
+- 🌱 I’m currently working with Unity.
 - 📫 How to reach me ...
 
 <!---
