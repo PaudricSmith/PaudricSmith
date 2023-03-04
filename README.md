@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaudricSmith
 - 👀 I’m interested in programming.
-- 🌱 I’m currently working with Unity.
+- 🌱 I’m currently working with ASP.NET.
 - 📫 How to reach me: Email --> smithpaudricwork@gmail.com
 
 <!---
